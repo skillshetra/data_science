@@ -320,9 +320,7 @@ This repo contains **summarized notes** that complement my video lectures — pe
 
 ---
 
-## 👋 See You in the Next Lecture!
-
-Stay curious, keep learning, and never stop exploring data!  
+## 👋 Stay curious, keep learning, and never stop exploring data!
 
 **Author:** Rudra Kumar Mishra
 **Institution:** *Skillshetra*  
